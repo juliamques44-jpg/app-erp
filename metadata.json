@@ -1,0 +1,6 @@
+{
+  "name": "PlanoERP - Gestão e Planejamento da Produção",
+  "description": "Sistema ERP enxuto para planejamento e controle da produção (PCP) com ficha técnica, matérias-primas, capacidade produtiva, pedidos e ordens de produção.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
